@@ -1,0 +1,10 @@
+# 忽略 Node.js 依赖
+node_modules/
+
+# 忽略 Python 虚拟环境
+venv/
+
+# 忽略 PHP 依赖
+vendor/
+
+.next/
